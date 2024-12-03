@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +11,7 @@
         <div class="container">
             <h1>OurBallCoin (OBC)</h1>
             <p>Own the Meme. Own the Blockchain.</p>
+            <img src="banner1.png" alt="OurBallCoin Banner" class="header-img">
             <nav>
                 <ul>
                     <li><a href="#about">About</a></li>
@@ -26,6 +26,7 @@
     <main>
         <section id="about">
             <h2>About OurBallCoin</h2>
+            <img src="meme_logo1.png" alt="Meme Logo" class="feature-img">
             <p>
                 OurBallCoin (OBC) is inspired by the viral meme "That’s our ball, ain’t it?" and aims to bring humor and innovation to the blockchain.
                 Built on the Solana blockchain, OBC is designed for community-driven governance and sustainable tokenomics.
@@ -34,13 +35,16 @@
         <section id="features">
             <h2>Features</h2>
             <ul>
-                <li>🔥 <strong>Deflationary Mechanism:</strong> 1% burn per transaction.</li>
-                <li>🏀 <strong>Community Governance:</strong> You vote, you decide.</li>
-                <li>🌟 <strong>Meme NFT Marketplace:</strong> Trade and collect exclusive meme art.</li>
+                <li>🔥 <strong>Deflationary Mechanism:</strong> Each transaction reduces supply by 1% burn.</li>
+                <li>🏀 <strong>Meme Contests:</strong> Win OBC for your creativity!</li>
+                <li>🌟 <strong>Community Governance:</strong> You vote, you decide.</li>
+                <li>🎨 <strong>Exclusive Meme NFTs:</strong> Collect and trade unique artworks.</li>
             </ul>
+            <img src="features2.png" alt="Features Image" class="feature-img">
         </section>
         <section id="roadmap">
             <h2>Roadmap</h2>
+            <p>From brainstorming to launch, here's how OBC came to life:</p>
             <ul>
                 <li><strong>Days 1-5:</strong> Idea brainstorming and AI exploration.</li>
                 <li><strong>Days 6-9:</strong> Learning about meme coins and blockchain.</li>
